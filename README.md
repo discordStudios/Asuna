@@ -1,6 +1,6 @@
 # Asuna
 
-A discord bot currently in development, yay.
+A discord bot currently in development.
 
 
 # Asuna`s Information
